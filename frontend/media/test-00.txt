@@ -2,3 +2,4 @@ new text file
 update from dev
 
 update and push to remote
+update temp and push to remote -> local undo -> update temp and push to remote
